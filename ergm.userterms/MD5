@@ -1,0 +1,15 @@
+abb1d99ab057e3fdda7e83c5f8ca3f6e *DESCRIPTION
+701f5888ca1f5f66d528c0741994cde8 *LICENSE
+e83ed5c618a39a1925c855688f4aec41 *NAMESPACE
+dfb5995aed12c6762eaba4789908c272 *R/InitErgmTerm.users.R
+dd9d2d3008dbcd2286601dfbace889b5 *R/zzz.R
+d6b14927be206639583e3cd5e4786b41 *inst/CITATION
+755faae871c42bd38046d24289609eb3 *inst/doc/ergmuserterms.pdf
+bce87fd2efb7536dd0b4db65bdd78ebb *inst/doc/index.html
+c105fe30370fcc0cf6f08e5569c60c44 *man/ergm.userterms-package.Rd
+4dde64c362d95cce5ff3ba04163e82e0 *man/eut-upgrade.Rd
+4bd85b382d7b63b1b907ef4dce8c6ef2 *man/mindegree-term.Rd
+aac8e27e611a6454c0313fdbc6f76978 *src/changestats.users.c
+8478f576ddf770f0dca5652bf08ab03b *src/changestats.users.h
+525975ec0e6482cfaa15d7c853365e66 *src/include_stubs.c
+b70bb1ed914f4fe142dbc6fa282ab67a *tests/examples.R
